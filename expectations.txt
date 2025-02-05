@@ -1,0 +1,3 @@
+Expectations for CMSC 100
+
+Web programming is probably one of the first things we learn in our own computer science classes in school, so many of us have some kind of background knowledge or experience with it, at the very least. As a child with internet access, creating websites was one of the things that piqued my interest in computer science, so I hope I'll find the course interesting, and have fun with it in my own way. Being able to collaborate will also be a great boon to the learning experience.
